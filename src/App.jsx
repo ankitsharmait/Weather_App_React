@@ -6,6 +6,7 @@ const App = () => {
     <div className="min-h-screen bg-gradient-to-br from-blue-100 to-blue-300 flex items-center justify-center">
       <Weathercard/>
     </div>
+    
   );
 };
 
